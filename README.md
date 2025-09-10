@@ -38,6 +38,7 @@ Creative Producer & Operational Strategist driving impact across production, mar
 - Managed social media campaigns (list platforms: Facebook, Instagram, LinkedIn).
 - Oversaw content creation (blog posts, videos, graphics).
 - Collaborated with tech teams to ensure marketing aligned with product features.
+
 **The Result:**
 [Real Estate Web.pdf](https://github.com/user-attachments/files/22245238/Real.Estate.Web.pdf)
 [Justice Web.pdf](https://github.com/user-attachments/files/22245237/Justice.Web.pdf)
