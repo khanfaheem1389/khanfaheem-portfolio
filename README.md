@@ -58,7 +58,7 @@ Creative Producer & Operational Strategist driving impact across production, mar
 - Implemented new workflow software/tools to enhance efficiency.
 
 **The Result:**
-*(This is a great place to link to your **Behance** or even upload a few stills or a sizzle reel to a `production-work` folder.)*
+https://www.abkfilms.com/
 
 ---
 
@@ -68,7 +68,7 @@ Creative Producer & Operational Strategist driving impact across production, mar
 ✔ **Digital Marketing:** Strategy, Social Media Management, Content Creation, Campaign Management, Lead Generation.  
 ✔ **Hospitality & Tourism Operations:** Hotel Operations, Restaurant Management, Reservations, Guest Relations, Travel Agency Brokering.  
 ✔ **Business Development & Client Relations:** Consulting, Client Acquisition, Account Management.  
-✔ **Creative Direction & Photography:** [Link to your Behance here!]
+✔ **Creative Direction & Photography:** [https://www.behance.net/khanfaheem]
 
 ---
 
