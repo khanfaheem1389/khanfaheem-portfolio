@@ -25,30 +25,39 @@ Creative Producer & Operational Strategist driving impact across production, mar
 - Developed and led staff training programs on customer service.
 - Managed reservations and provided immigration support for International guests.
 - Brokered deals and managed private events for Shikha Travel.
-- 
-**The Result:**
+
+   **The Result:**
   *[Taj Work.pdf](https://github.com/user-attachments/files/22245079/Taj.Work.pdf)
-*
 
 ### 📈 Zenith Squad Digital Marketing Campaigns
 **Role:** Marketing Manager | **Date:** 2022 - 2024  
 **The Challenge:** "To increase brand visibility and lead generation for a software company."
+
 **My Actions & Strategies:**
 - Developed and executed the overall digital marketing strategy.
 - Managed social media campaigns (list platforms: Facebook, Instagram, LinkedIn).
 - Oversaw content creation (blog posts, videos, graphics).
 - Collaborated with tech teams to ensure marketing aligned with product features.
-**The Result:** "Grew social media following by Z%,", "Generated X qualified leads per month," "Increased website traffic by Y%."
-*(Link to a folder `zenith-marketing` with samples: campaign graphics, a link to a social media page, or an analytics report screenshot with sensitive data blurred.)*
+**The Result:**
+[Real Estate Web.pdf](https://github.com/user-attachments/files/22245238/Real.Estate.Web.pdf)
+[Justice Web.pdf](https://github.com/user-attachments/files/22245237/Justice.Web.pdf)
+[Hair Saloon Web.pdf](https://github.com/user-attachments/files/22245236/Hair.Saloon.Web.pdf)
+[Sola Maison Web.pdf](https://github.com/user-attachments/files/22245234/Sola.Maison.Web.pdf)
+[Fuel Pros Web.pdf](https://github.com/user-attachments/files/22245233/Fuel.Pros.Web.pdf)
+<img width="4000" height="2403" alt="Fuel Pros App Screen" src="https://github.com/user-attachments/assets/62cf0f40-8bb9-42e3-963b-2cce64e5e446" />
+![Justice App Screen](https://github.com/user-attachments/assets/ddf65c40-7853-47c8-8893-ad111940d086)
 
+  
 ### 🎬 ABK Films Production Leadership
 **Role:** Head of Production | **Date:** 2020 - 2022  
 **The Challenge:** "To spearhead end-to-end production and optimize workflows for high-quality deliverables."
+
 **My Actions & Strategies:**
 - Led pre-production planning, on-set execution, and post-production.
-- Managed a cross-functional team of [number] people.
+- Managed a cross-functional team of 30-40 people.
 - Implemented new workflow software/tools to enhance efficiency.
-**The Result:** "Reduced production timeline by X%,", "Completed Y projects on time and under budget," "Improved creative output as evidenced by [mention an award, high viewership, or client feedback]."
+
+**The Result:**
 *(This is a great place to link to your **Behance** or even upload a few stills or a sizzle reel to a `production-work` folder.)*
 
 ---
