@@ -27,7 +27,8 @@ Creative Producer & Operational Strategist driving impact across production, mar
 - Brokered deals and managed private events for Shikha Travel.
 - 
 **The Result:**
-  *(`[Taj Work.pdf](https://github.com/user-attachments/files/22245052/Taj.Work.pdf)` .)*
+  *[Taj Work.pdf](https://github.com/user-attachments/files/22245079/Taj.Work.pdf)
+*
 
 ### 📈 Zenith Squad Digital Marketing Campaigns
 **Role:** Marketing Manager | **Date:** 2022 - 2024  
