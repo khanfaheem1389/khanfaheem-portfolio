@@ -25,8 +25,9 @@ Creative Producer & Operational Strategist driving impact across production, mar
 - Developed and led staff training programs on customer service.
 - Managed reservations and provided immigration support for International guests.
 - Brokered deals and managed private events for Shikha Travel.
+- 
 **The Result:**
-  *(`taj-palace-case-study` .)*
+  *(`[Taj Work.pdf](https://github.com/user-attachments/files/22245052/Taj.Work.pdf)` .)*
 
 ### 📈 Zenith Squad Digital Marketing Campaigns
 **Role:** Marketing Manager | **Date:** 2022 - 2024  
